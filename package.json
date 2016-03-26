@@ -1,0 +1,29 @@
+{
+  "name": "yudielgc.github.io",
+  "version": "1.0.0",
+  "description": "Yudiel's full resume page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yudielgc/yudielgc.github.io.git"
+  },
+  "keywords": [
+    "Yudiel",
+    "Guerra",
+    "resume",
+    "accomplishments"
+  ],
+  "author": "Yudiel Guerra",
+  "email": "yudielgc@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yudielgc/yudielgc.github.io/issues"
+  },
+  "homepage": "https://github.com/yudielgc/yudielgc.github.io#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
