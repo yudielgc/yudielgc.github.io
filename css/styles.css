@@ -104,7 +104,7 @@ p {
     padding-top: 40px;
 }
 
-ul code {
-    text-decoration: underline;
+li span {
+    font-weight: bold;
 }
 
